@@ -1,0 +1,27 @@
+"Elapsed time: 268842.1006 msecs"
+"Elapsed time: 272688.4071 msecs"
+"Elapsed time: 296067.1466 msecs"
+
+"Elapsed time: 169649.9744 msecs"
+"Elapsed time: 159986.3694 msecs"
+"Elapsed time: 165347.811 msecs"
+
+"Elapsed time: 99770.6159 msecs"
+"Elapsed time: 96677.8673 msecs"
+"Elapsed time: 96345.6981 msecs"
+
+"Elapsed time: 65727.8539 msecs"
+"Elapsed time: 66164.4264 msecs"
+"Elapsed time: 63709.9697 msecs"
+
+"Elapsed time: 43085.3366 msecs"
+"Elapsed time: 43700.7128 msecs"
+"Elapsed time: 43521.162 msecs"
+
+"Elapsed time: 31684.8031 msecs"
+"Elapsed time: 31628.0657 msecs"
+"Elapsed time: 32563.0768 msecs"
+
+"Elapsed time: 26807.0884 msecs"
+"Elapsed time: 26858.7473 msecs"
+"Elapsed time: 28306.0645 msecs"
